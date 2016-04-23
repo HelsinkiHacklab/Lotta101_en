@@ -5,3 +5,8 @@ Lotta introduction training course material in English.
 * Coordinate System
 * Milling Action
 * Tools and tool holders
+
+==Session 2:==
+* Workpiece or Stock Holding
+* Squaring Stock
+* Intro to G Codes
